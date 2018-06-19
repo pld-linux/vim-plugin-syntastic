@@ -1,12 +1,12 @@
 %define		plugin	syntastic
 Summary:	Vim plugin: Automatic syntax checking
 Name:		vim-plugin-%{plugin}
-Version:	3.8.0
+Version:	3.9.0
 Release:	1
 License:	Vim
 Group:		Applications/Editors/Vim
 Source0:	https://github.com/scrooloose/syntastic/archive/%{version}.tar.gz
-# Source0-md5:	55500457c839ef704f15833c807cde3a
+# Source0-md5:	9632d807d54de03968fad8ccbe831764
 URL:		http://www.vim.org/scripts/script.php?script_id=2736
 Requires:	vim-rt >= 4:7.4.0
 BuildArch:	noarch
